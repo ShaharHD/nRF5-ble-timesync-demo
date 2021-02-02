@@ -1,0 +1,7 @@
+## SEGGER Embedded Studio and JLink ##
+*.emSession
+*.jlink
+Output
+
+## OSX
+.DS_Store
